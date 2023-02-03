@@ -1,0 +1,31 @@
+Column type;Active phase;I;Reference;Comment
+Capillary;ZB-Wax;983;Wu, Zorn, et al., 2007;30. m/0.32 mm/0.25 ?m, He, 40. C @ 2. min, 5. K/min, 250. C @ 5. min
+Capillary;CP-Wax 52CB;968;Mahadevan and Farmer, 2006;"60. C @ 5. min, 4. K/min, 220. C @ 30. min; Column length: 50. m; Column diameter: 0.32 mm"
+Capillary;DB-Wax;945;Osorio, Alarcon, et al., 2006;30. m/0.25 mm/0.25 ?m, He, 50. C @ 4. min, 4. K/min, 220. C @ 20. min
+Capillary;CP-Wax 52CB;971;Alasalvar, Taylor, et al., 2005;"60. m/0.25 mm/0.25 ?m, 35. C @ 4. min, 3. K/min; Tend: 203. C"
+Capillary;Supelcowax-10;978;Elmore, Nisyrios, et al., 2005;"60. m/0.25 mm/0.25 ?m, He, 40. C @ 2. min, 4. K/min; Tend: 280. C"
+Capillary;DB-Wax;1005;Malliaa, Fernandez-Garcia, et al., 2005;60. m/0.32 mm/1. ?m, He, 45. C @ 1. min, 5. K/min, 250. C @ 12. min
+Capillary;DB-Wax Etr;985;Ménager, Jost, et al., 2004;30. m/0.25 mm/0.25 ?m, He, 40. C @ 3. min, 3. K/min, 245. C @ 20. min
+Capillary;Carbowax;991.1;Censullo, Jones, et al., 2003;60. m/0.25 mm/0.5 ?m, He, 50. C @ 10. min, 5. K/min, 250. C @ 10. min
+Capillary;AT-Wax;945;Pino, Almora, et al., 2003;60. m/0.32 mm/0.25 ?m, He, 65. C @ 10. min, 2. K/min, 250. C @ 60. min
+Capillary;AT-Wax;944;Pino, Marbot, et al., 2002, 2;60. m/0.32 mm/0.25 ?m, He, 65. C @ 10. min, 2. K/min, 250. C @ 60. min
+Capillary;AT-Wax;943;Pino and Marbot, 2001;60. m/0.32 mm/0.25 ?m, He, 65. C @ 10. min, 2. K/min, 250. C @ 60. min
+Capillary;AT-Wax;944;Pino, Marbot, et al., 2001;60. m/0.32 mm/0.25 ?m, He, 65. C @ 10. min, 2. K/min, 250. C @ 60. min
+Capillary;DB-Wax;996;Shimoda, Yoshimura, et al., 2001;"60. m/0.25 mm/0.25 ?m, He, 2. K/min, 230. C @ 60. min; Tstart: 50. C"
+Capillary;FFAP;988;Ott, Fay, et al., 1997;30. m/0.25 mm/0.25 ?m, He, 20. C @ 1. min, 4. K/min, 200. C @ 1. min
+Capillary;DB-Wax;980;Shimoda, Peralta, et al., 1996;"60. m/0.25 mm/0.25 ?m, He, 3. K/min; Tstart: 50. C; Tend: 230. C"
+Capillary;DB-Wax;975;Shimoda, Wu, et al., 1996;"60. m/0.25 mm/0.25 ?m, He, 3. K/min; Tstart: 50. C; Tend: 230. C"
+Capillary;DB-Wax;975;Iwaoka, Hagi, et al., 1994;"He, 40. C @ 5. min, 2. K/min; Column length: 30. m; Column diameter: 0.25 mm; Tend: 200. C"
+Capillary;DB-Wax;993;Shiratsuchi, Shimoda, et al., 1994;"60. m/0.25 mm/0.25 ?m, He, 2. K/min, 230. C @ 60. min; Tstart: 50. C"
+Capillary;DB-Wax;978;Sumitani, Suekane, et al., 1994;"He, 40. C @ 5. min, 3. K/min; Column length: 60. m; Column diameter: 0.25 mm; Tend: 200. C"
+Capillary;DB-Wax;938;Frohlich and Schreier, 1990;"30. m/0.32 mm/0.25 ?m, He, 40. C @ 3. min, 5. K/min; Tend: 220. C"
+Capillary;Supelcowax-10;977;Matiella and Hsieh, 1990;60. m/0.25 mm/0.25 ?m, 40. C @ 5. min, 2. K/min, 175. C @ 20. min
+Capillary;DB-Wax;938;Fröhlich, Duque, et al., 1989;"30. m/0.25 mm/0.25 ?m, He, 50. C @ 3. min, 4. K/min; Tend: 250. C"
+Capillary;DB-Wax;943;Fröhlich, Duque, et al., 1989;"30. m/0.25 mm/0.25 ?m, He, 50. C @ 3. min, 4. K/min; Tend: 250. C"
+Capillary;Supelcowax-10;978;Tanchotikul and Hsieh, 1989;60. m/0.25 mm/0.25 ?m, 40. C @ 5. min, 2. K/min, 175. C @ 20. min
+Capillary;Supelcowax-10;979;Tanchotikul and Hsieh, 1989;60. m/0.25 mm/0.25 ?m, 40. C @ 5. min, 2. K/min, 175. C @ 20. min
+Capillary;PEG-20M;983.4;Wang and Sun, 1985;"3. K/min; Column length: 62. m; Column diameter: 0.27 mm; Tstart: 70. C"
+Capillary;PEG-20M;984.3;Wang and Sun, 1985;"4. K/min; Column length: 62. m; Column diameter: 0.27 mm; Tstart: 70. C"
+Capillary;PEG-20M;984.4;Wang and Sun, 1985;"2. K/min; Column length: 62. m; Column diameter: 0.27 mm; Tstart: 80. C"
+Capillary;PEG-20M;987;Wang and Sun, 1985;"2. K/min; Column length: 62. m; Column diameter: 0.27 mm; Tstart: 90. C"
+Capillary;Carbowax 20M;971;Chen, Kuo, et al., 1982;"He, 50. C @ 10. min, 1. K/min; Tend: 160. C"
